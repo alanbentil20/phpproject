@@ -1,0 +1,48 @@
+.login{
+    margin-top: 10%;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.background{
+    background: linear-gradient(white, black);
+    height: 700px;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+
+li{
+    list-style: none;
+    color: white;
+}
+
+.sidebar{
+    background: linear-gradient(white, black);
+    height: 770px;
+}
+
+a{
+    color: blue;
+    padding: 10px 20px;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+span{
+    font-size: 12px;
+}
